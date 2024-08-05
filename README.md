@@ -29,10 +29,11 @@ To run this project locally, follow these steps:
    npm install
 4. cd ../frontend
    npm install
-5. # In the backend directory
+   
+## In the backend directory
    npm start
 
-6. # In the frontend directory
+## In the frontend directory
    npm start
 
 
