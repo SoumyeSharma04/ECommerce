@@ -21,7 +21,7 @@ This repository contains the source code for a full-featured e-commerce platform
 ## Installation
 
 To run this project locally, follow these steps:
-
+```bash
 1. Clone the repository:
    git clone https://github.com/SoumyeSharma04/Ecommerce.git
 2. cd ecommerce-website
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
    npm install
    
 ## In the backend directory
-   npm start
+npm start
 
 ## In the frontend directory
    npm start
